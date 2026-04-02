@@ -1,0 +1,17 @@
+#Xcode
+build/
+*.xcuserstate 
+xcuserdata/
+*.xcworkspace/xcuserdata/
+DerivedData/
+*.pbxuser
+*.perspectivev3
+
+#CMake
+CMakeFiles/ 
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+#macos
+.DS_Store
